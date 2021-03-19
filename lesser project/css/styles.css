@@ -1,0 +1,569 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+.container1 {
+  font-weight: bold;
+}
+
+.lessertitle{
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.icon{
+  position: absolute;
+float: left;
+margin-left: 05px;
+margin-top: 13px;
+padding-right: 10px;
+}
+
+hr{
+  margin-bottom: 40px;
+}
+
+.container2{
+text-align: center;
+font-size: 25px;
+margin: 0 35% 0 33%;
+}
+
+.image-1{
+  position:absolute;
+  width: 300px;
+  margin-left: 150px;
+}
+
+.image-6{
+position: absolute;
+margin-left: 470px;
+height: 90px;
+}
+
+.image-3{
+  position: absolute;
+  margin-left: 470px;
+  height: 100px;
+  margin-top: 100px;
+  width: 180px;
+}
+
+.image-8{
+  position: absolute;
+  margin-left: 670px;
+  height: 100px;
+  margin-top:100px;
+  width: 200px;
+
+}
+
+.container3{
+  position: relative;
+  margin: 100px;
+}
+
+.image1text{
+  position: absolute;
+  margin-left: 260px;
+  margin-top: 170px;
+  color: white;
+  font-size: 10px;
+}
+
+.links{
+  margin-top: 05px;
+margin-left: 750px;
+
+}
+
+.image2text{
+  position: absolute;
+  margin-left: 580px;
+  margin-top: 55px;
+  font-size: 10px;
+  color: white;
+}
+
+.imagetext3{
+  position: absolute;
+  margin-left: 580px;
+  margin-top: 170px;
+  font-size: 10px;
+  color: white;
+}
+
+ .imagetext4{
+   position: absolute;
+   margin-left: 780px;
+   margin-top: 170px;
+   font-size: 10px;
+   color: white;
+ }
+
+.container4{
+  margin-top: 300px;
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  background-color: #28abb9;
+}
+
+.text1{
+position: absolute;
+text-align: center;
+margin: 40px 450px ;
+color: white;
+height: 30px;
+}
+
+.text{
+font-size: 30px;
+margin-bottom: 20px;
+margin-left: 10px;
+}
+
+ .threeterms{
+   text-align: center;
+   margin-top: 200px;
+ }
+
+ .finance{
+   float: left;
+   margin-left: 10px;
+   position: relative;
+   width: 30%;
+   color: white;
+ }
+
+ .madewith{
+    margin-left: 50px;
+   float: left;
+   position: static;
+   width: 30%;
+   color: white;
+ }
+
+ .help{
+  float: right;
+  margin-right: 20px;
+  position: relative;
+  width: 30%;
+  color: white;
+ }
+
+.button1{
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 05px 15px;
+  border-radius: 12px;
+
+}
+  .button1:hover{
+  background-color: green;
+  color:white;
+}
+
+.button2{
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 05px 15px;
+  border-radius: 12px;
+}
+  .button2:hover{
+    background-color: green;
+    color:white;
+  }
+
+.button3{
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 05px 15px;
+  border-radius: 12px;
+}
+  .button3:hover{
+  background-color: green;
+  color:white;
+  }
+
+
+.button4{
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 05px 15px;
+  border-radius: 12px;
+}
+  .button4:hover{
+  background-color: green;
+  color:white;
+}
+
+
+.button5{
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 05px 15px;
+  border-radius: 12px;
+}
+  .button5:hover{
+  background-color: green;
+  color:white;
+}
+
+.button6{
+  border: none;
+  background-color: white;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 05px 15px;
+  border-radius: 12px;
+}
+
+.button6:hover{
+  background-color: green;
+  color:white;
+}
+
+.body{
+  display: inline-block;
+  overflow: hidden;
+}
+
+.container5{
+  position: relative;
+  margin-top: 1000px;
+}
+
+
+.text2{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+
+}
+
+.text3{
+  position: absolute;
+  text-align:center;
+  width:35%;
+  height: 10%;
+  margin-left: 420px;
+}
+
+.container6{
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.image-4{
+  position:absolute;
+  width:250px;
+  margin-left: 200px;
+}
+
+.image-5{
+  position:absolute;
+  width:250px;
+  margin-left: 500px;
+  margin-right: 10px
+}
+
+.image-11{
+  width: 250px;
+  margin-left: 800px;
+}
+
+.box1{
+  position: absolute;
+  text-align: center;
+  width:20%;
+  margin-left: 195px;
+}
+
+.box2{
+  position: absolute;
+  text-align: center;
+  width:20%;
+  margin-left: 500px;
+}
+
+.box3{;
+  text-align: center;
+  width:20%;
+  margin-left: 800px;
+  margin-bottom: 100px;
+}
+
+.container7{
+  margin-top: 30px;
+  position: relative
+}
+
+.title1{
+  font-size: 20px;
+  margin-bottom: 15px;
+
+}
+
+.title2{
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.title3{
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.subtext1{
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+.subtext2{
+line-height: 25px;
+margin-bottom: 20px;
+}
+
+.subtext3{
+  line-height: 25px;
+  margin-bottom: 10px;
+}
+
+.buttona{
+  border-color: green;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 12px;
+  color: #00917c;
+}
+ .buttona:hover{
+   background-color:green;
+ }
+
+.buttonb{
+  border-color: green;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 12px;
+  color: #00917c;
+}
+.buttonb:hover{
+  background-color:green;
+}
+
+.buttonc{
+  border-color: green;
+  background-color: white;
+  cursor: pointer;
+  border-radius: 12px;
+  color: #00917c;
+}
+  .buttonc:hover{
+    background-color:green;
+  }
+
+.container8{
+  position: relative;
+  margin-bottom: 400px;
+}
+.image-7{
+  position: absolute;
+  margin-top: 200px;
+  width:35%;
+  height:300px;
+  margin-left: 150px;
+
+}
+
+.image-12{
+  position: absolute;
+  margin-top: 200px;
+  width:35%;
+  height:300px;
+  margin-left: 650px;
+}
+
+.title4{
+  position:relative;
+  font-size: 30px;
+margin-left: 500px;
+margin-top: 150px;
+}
+
+.subtext4{
+  position:relative;
+  margin-left: 420px;
+  margin-top:  50px;
+  width: 30%;
+  text-align: center;
+}
+
+.subtext5{
+  position: absolute;
+  width:25%;
+  line-height: 30px;
+  margin-top: 140px;
+  margin-left: 220px;
+
+}
+
+.subtext6{
+  position: absolute;
+  width:25%;
+  line-height: 30px;
+  margin-top: 140px;
+  margin-left: 730px;
+
+}
+
+.quote1{
+  position: absolute;
+  margin-left: 350px;
+  margin-top: 70px;
+  color:#dddddd;
+
+}
+
+.quote2{
+  position: absolute;
+  margin-left: 850px;
+  margin-top: 70px;
+  color:#dddddd;
+
+}
+
+.container9{
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  background-color: #374045;
+}
+
+
+.aboutus{
+  position: absolute;
+  font-size: 20px;
+  margin-top: 150px;
+  margin-left: 200px;
+  color:#e7e7de;
+}
+
+.subtext7{
+  position: absolute;
+  margin-top:200px;
+  margin-left: 200px;
+  width:190px;
+  color:#e7e7de;
+  line-height: 25px;
+}
+
+.Services1{
+  font-size: 20px;
+  margin-top: 145px;
+  margin-left: 580px;
+  position: absolute;
+  color:#e7e7de;
+}
+
+  .buttongroup button {
+    background-color:#374045;
+    border: none;
+    color: #e7e7de;
+    padding: 05px 10px;
+    cursor: pointer;
+    width: 50%;
+    display: block;
+}
+    .buttongroup button:hover{
+      background-color: black;
+    }
+
+  .subtext8{
+    position: absolute;
+    width: 25%;
+    margin-top: 195px;
+    margin-left: 530px;
+  }
+
+.buttongroup1 button{
+  background-color:#374045;
+  border: none;
+  color: #e7e7de;
+  padding: 05px 10px;
+  cursor: pointer;
+  width: 50%;
+  display: block;
+}
+  .buttongroup1 button:hover{
+  background-color: black;
+}
+
+.subtext9{
+  position: absolute;
+  width: 30%;
+  margin-top: 195px;
+  margin-left: 720px;
+}
+
+.follow{
+  position: absolute;
+  margin-left: 1020px;
+  margin-top: 145px;
+  font-size: 20px;
+color:#e7e7de;
+
+}
+
+.buttongroup2 button{
+  background-color:#374045;
+  border: none;
+  color: #e7e7de;
+  padding: 05px 10px;
+  cursor: pointer;
+  width: 50%;
+  display: block;
+}
+.buttongroup2 button:hover{
+background-color: black;
+}
+
+.subtext10{
+  position: absolute;
+  width: 35%;
+  margin-top: 200px;
+  margin-left: 950px;
+}
